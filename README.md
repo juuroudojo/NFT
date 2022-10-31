@@ -1,4 +1,4 @@
-<h1 align="center">NFT<a href="https://goerli.etherscan.io/token/0xBBdd0DDAec6Abc8fB65D86a50E8521bF6Fc71520#code" target="_blank"> COLLECTION</a> 
+<h1 align="center">NFT COLLECTION</h1> 
 <img src="https://github.com/juuroudojo/images/blob/main/Addicted%20to%20Ink.gif" height="44"/></h1> 
 
 
