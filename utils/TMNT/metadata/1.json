@@ -1,0 +1,12 @@
+{
+  "description": "Training",
+  "external_url": "https://gateway.pinata.cloud/ipfs/QmaecNVRGD71ya3nv4Gf3VHkKfaQHVWKhvLiBYYnAj41xv/1.png",
+  "image": "https://gateway.pinata.cloud/ipfs/QmaecNVRGD71ya3nv4Gf3VHkKfaQHVWKhvLiBYYnAj41xv/1.png",
+  "name": "Memory",
+  "attributes": [
+    {
+      "trait_type": "Memory", 
+      "value": "Leonardo"
+    }
+]
+}

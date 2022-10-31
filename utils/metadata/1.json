@@ -1,0 +1,22 @@
+{
+  "description": "One of the four emperors of the sea",
+  "external_url": "https://gateway.pinata.cloud/ipfs/QmYagxA8rSwrn3apZxSNAra46qJHXgx1bkw6gUSyL63hwM/Blackbeard.png",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYagxA8rSwrn3apZxSNAra46qJHXgx1bkw6gUSyL63hwM/Blackbeard.png",
+  "name": "Blackbeard",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Power Level",
+      "value": 7520
+  },
+    {
+      "trait_type": "Devil Fruit Type", 
+      "value": "Logia"
+    },
+
+    {
+      "trait_type": "Devil Fruit", 
+      "value": "Yami Yami no Mi"
+    }
+]
+}

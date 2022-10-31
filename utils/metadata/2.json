@@ -1,0 +1,22 @@
+{
+  "description": "The captain of the Kid Pirates",
+  "external_url": "https://gateway.pinata.cloud/ipfs/QmYagxA8rSwrn3apZxSNAra46qJHXgx1bkw6gUSyL63hwM/Eustass_Kidd.png",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYagxA8rSwrn3apZxSNAra46qJHXgx1bkw6gUSyL63hwM/Eustass_Kidd.png",
+  "name": "Eustass Kid",
+  "attributes": [
+      {
+          "display_type": "number",
+          "trait_type": "Power Level",
+          "value": 6730
+      },
+        {
+          "trait_type": "Devil Fruit Type", 
+          "value": "Paramecia"
+        },
+
+        {
+          "trait_type": "Devil Fruit", 
+          "value": "Jiki Jiki no Mi"
+        }
+  ]
+}

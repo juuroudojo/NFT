@@ -1,0 +1,22 @@
+{
+  "description": "Strongest Man in the World",
+  "external_url": "https://gateway.pinata.cloud/ipfs/QmYagxA8rSwrn3apZxSNAra46qJHXgx1bkw6gUSyL63hwM/Whitebeard.png",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYagxA8rSwrn3apZxSNAra46qJHXgx1bkw6gUSyL63hwM/Whitebeard.png",
+  "name": "Edward Newgate",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Power Level",
+      "value": 8492
+  },
+    {
+      "trait_type": "Devil Fruit Type", 
+      "value": "Paramecia"
+    },
+
+    {
+      "trait_type": "Devil Fruit", 
+      "value": "Gura Gura no Mi"
+    }
+]
+}
