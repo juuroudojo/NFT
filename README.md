@@ -1,5 +1,7 @@
-# DESCRIPTION
+# NFT COLLECTION ![](https://github.com/juuroudojo/images/blob/main/Addicted%20to%20Ink.gif) 
 
-ERC721 AND ERC1155 deployed to Goerli Testnetwork, visible on OpenSea
+The PowerPuffV2 Collection inhereting the ERC1155 protocol allows user to mint a random NFT. Randomisation is realized through VRFCoordinator by ChainLink.
+
+In order for the random feature to work a sufficient balance of LINK tokens needs to be maintained by the deployer wallet at all times.
 
 
