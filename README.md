@@ -8,6 +8,6 @@
 <img src="https://github.com/juuroudojo/images/blob/main/e35716d698ab10a7a730ea8e0db6d405.png" height="30"/> 𝘐𝘯 𝘰𝘳𝘥𝘦𝘳 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘳𝘢𝘯𝘥𝘰𝘮 𝘧𝘦𝘢𝘵𝘶𝘳𝘦 𝘵𝘰 𝘸𝘰𝘳𝘬 𝘢 𝘴𝘶𝘧𝘧𝘪𝘤𝘪𝘦𝘯𝘵 𝘣𝘢𝘭𝘢𝘯𝘤𝘦 𝘰𝘧 𝘓𝘐𝘕𝘒 𝘵𝘰𝘬𝘦𝘯𝘴 𝘯𝘦𝘦𝘥𝘴 𝘵𝘰 𝘣𝘦 𝘮𝘢𝘪𝘯𝘵𝘢𝘪𝘯𝘦𝘥 𝘣𝘺 𝘵𝘩𝘦 𝘥𝘦𝘱𝘭𝘰𝘺𝘦𝘳 𝘸𝘢𝘭𝘭𝘦𝘵 𝘢𝘵 𝘢𝘭𝘭 𝘵𝘪𝘮𝘦𝘴.
 
 
-<h1> 𝕋𝔼𝕊𝕋𝕀ℕ𝔾 ℂ𝕆𝕍𝔼ℝ𝔸𝔾𝔼 </h1>
+<h2> 𝕋𝔼𝕊𝕋𝕀ℕ𝔾 ℂ𝕆𝕍𝔼ℝ𝔸𝔾𝔼 </h2>
 <img src="https://github.com/juuroudojo/images/blob/main/image.png" />
 
