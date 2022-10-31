@@ -1,5 +1,6 @@
-<h1 align="center">NFT COLLECTION
+<h1 align="center">𝐍𝐅𝐓 𝐂𝐎𝐋𝐋𝐄𝐂𝐓𝐈𝐎𝐍
 <img src="https://github.com/juuroudojo/images/blob/main/Addicted%20to%20Ink.gif" height="54"/></h1> 
+
 
 
 The PowerPuffV2 Collection inhereting the ERC1155 protocol allows user to mint a random NFT. Randomisation is realized through VRFCoordinator by ChainLink.
