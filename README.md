@@ -10,4 +10,4 @@
 
 #TEST COVERAGE
 
-<img src="https://github.com/juuroudojo/images/blob/main/image.png"
+<img src="https://github.com/juuroudojo/images/blob/main/image.png" />
